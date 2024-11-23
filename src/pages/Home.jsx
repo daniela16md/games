@@ -85,7 +85,6 @@ const styles = {
     padding: '20px 30px',
     fontSize: '24px',
     border: 'none',
-    borderRadius: '5px',
     cursor: 'pointer',
     width: '30%',
     alignSelf: 'center',
