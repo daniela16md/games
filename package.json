@@ -2,7 +2,7 @@
   "name": "snake",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.com/daniela16md.github.io/games",
+  "homepage":"https://daniela16md.github.io/games",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -21,8 +21,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:staging": "env-cmd -f .env.staging npm run build",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "eslintConfig": {
     "extends": [
